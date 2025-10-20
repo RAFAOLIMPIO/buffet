@@ -198,6 +198,7 @@
                     <a href="#" class="social-link"><i class="fab fa-whatsapp"></i></a>
                 </div>
             </div>
+<<<<<<< HEAD
             <div class="contact-form">
                 <h3>Enviar Mensagem</h3>
                 <form>
@@ -206,11 +207,23 @@
                     <div class="form-group"><label>Mensagem</label><textarea required></textarea></div>
                     <button type="submit" class="btn">Enviar</button>
                 </form>
+=======
+            <div class="about-content">
+                <div class="about-text">
+                    <p>AQUI VAMOS MUDAR</p>
+                    <p>Contamos com uma equipe de chefs experientes e profissionais dedicados que trabalham com ingredientes selecionados e receitas exclusivas, sempre priorizando a qualidade e o sabor.</p>
+                    <p>Oferecemos serviços completos para casamentos, festas de aniversário, eventos corporativos, coffee breaks e muito mais, sempre adaptando nosso cardápio às necessidades e preferências de cada cliente.</p>
+                </div>
+                <div class="about-image">
+                    <img src="https://images.unsplash.com/photo-1556909114-4d0d853e5e25?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Equipe do Buffet">
+                </div>
+>>>>>>> d76350065c8afb92d9af803ed052bff5139d1f8c
             </div>
         </div>
     </div>
 </section>
 
+<<<<<<< HEAD
 <!-- Footer -->
 <footer>
     <div class="container footer-content">
@@ -220,6 +233,77 @@
             <div class="footer-photos">
                 <img src="pedro.png" alt="Pedro Cadorin">
                 <img src="eliane.png" alt="Eliane Dias">
+=======
+    <!-- Seção Cardápio -->
+    <section id="menu" class="menu">
+        <div class="container">
+            <div class="section-title">
+                <h2>Nosso Cardápio</h2>
+                <p>Conheça algumas de nossas especialidades</p>
+            </div>
+            <div class="menu-categories">
+                <button class="category-btn active" data-category="all">Todos</button>
+                <button class="category-btn" data-category="entradas">Entradas</button>
+                <button class="category-btn" data-category="pratos">Pratos Principais</button>
+                <button class="category-btn" data-category="sobremesas">Sobremesas</button>
+                <button class="category-btn" data-category="bebidas">Bebidas</button>
+            </div>
+            <div class="menu-items">
+                <!-- Item 1 -->
+                <div class="menu-item" data-category="entradas">
+                    <img src="https://images.unsplash.com/photo-1546833999-b9f581a1996d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Bruschetta">
+                    <div class="menu-item-content">
+                        <h3>PÃO</h3>
+                        <p>PÃO.</p>
+                        <div class="price">R$ 28,00</div>
+                    </div>
+                </div>
+                <!-- Item 2 -->
+                <div class="menu-item" data-category="pratos">
+                    <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Risotto">
+                    <div class="menu-item-content">
+                        <h3>PÃOs</h3>
+                        <p>PÃO.</p>
+                        <div class="price">R$ 42,00</div>
+                    </div>
+                </div>
+                <!-- Item 3 -->
+                <div class="menu-item" data-category="sobremesas">
+                    <img src="https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Cheesecake">
+                    <div class="menu-item-content">
+                        <h3>SOBREMESA</h3>
+                        <p>FRUTA.</p>
+                        <div class="price">R$ 22,00</div>
+                    </div>
+                </div>
+                <!-- Item 4 -->
+                <div class="menu-item" data-category="bebidas">
+                    <img src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Coquetel">
+                    <div class="menu-item-content">
+                        <h3>Coquetel Especial da Casa</h3>
+                        <p>BEBIDAS.</p>
+                        <div class="price">R$ 18,00</div>
+                    </div>
+                </div>
+                <!-- Item 5 -->
+                <div class="menu-item" data-category="pratos">
+                    <img src="https://images.unsplash.com/photo-1586190848861-99aa4a171e90?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Salmão">
+                    <div class="menu-item-content">
+                        <h3>LANCHE</h3>
+                        <p>LANCHE.</p>
+                        <div class="price">R$ 58,00</div>
+                    </div>
+                </div>
+                <!-- Item 6 -->
+                <div class="menu-item" data-category="entradas">
+                    <img src="https://images.unsplash.com/photo-1606755962773-d324e74532a7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Salada">
+                    <div class="menu-item-content">
+                        <h3>Salada</h3>
+                        <p>AJKSDJAJSAJ</p>
+                        <div class="price">R$ 32,00</div>
+                    </div>
+                </div>
+>>>>>>> d76350065c8afb92d9af803ed052bff5139d1f8c
             </div>
         </div>
         <div class="footer-column">
