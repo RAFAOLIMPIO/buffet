@@ -426,7 +426,7 @@
             </div>
             <div class="about-content">
                 <div class="about-text">
-                    <p>Há mais de 15 anos no mercado, o Buffet Delícias & Eventos se dedica a criar experiências gastronômicas únicas para nossos clientes. Nossa missão é transformar momentos especiais em memórias inesquecíveis através da excelência em serviços de alimentação.</p>
+                    <p>AQUI VAMOS MUDAR</p>
                     <p>Contamos com uma equipe de chefs experientes e profissionais dedicados que trabalham com ingredientes selecionados e receitas exclusivas, sempre priorizando a qualidade e o sabor.</p>
                     <p>Oferecemos serviços completos para casamentos, festas de aniversário, eventos corporativos, coffee breaks e muito mais, sempre adaptando nosso cardápio às necessidades e preferências de cada cliente.</p>
                 </div>
@@ -456,8 +456,8 @@
                 <div class="menu-item" data-category="entradas">
                     <img src="https://images.unsplash.com/photo-1546833999-b9f581a1996d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Bruschetta">
                     <div class="menu-item-content">
-                        <h3>Bruschetta Italiana</h3>
-                        <p>Pão italiano torrado com tomate fresco, manjericão e azeite de oliva extra virgem.</p>
+                        <h3>PÃO</h3>
+                        <p>PÃO.</p>
                         <div class="price">R$ 28,00</div>
                     </div>
                 </div>
@@ -465,8 +465,8 @@
                 <div class="menu-item" data-category="pratos">
                     <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Risotto">
                     <div class="menu-item-content">
-                        <h3>Risotto de Cogumelos</h3>
-                        <p>Arroz arbóreo cremoso com cogumelos frescos, queijo parmesão e ervas finas.</p>
+                        <h3>PÃOs</h3>
+                        <p>PÃO.</p>
                         <div class="price">R$ 42,00</div>
                     </div>
                 </div>
@@ -474,8 +474,8 @@
                 <div class="menu-item" data-category="sobremesas">
                     <img src="https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Cheesecake">
                     <div class="menu-item-content">
-                        <h3>Cheesecake de Frutas Vermelhas</h3>
-                        <p>Base de biscoito, creme de queijo suave e calda de frutas vermelhas.</p>
+                        <h3>SOBREMESA</h3>
+                        <p>FRUTA.</p>
                         <div class="price">R$ 22,00</div>
                     </div>
                 </div>
@@ -484,7 +484,7 @@
                     <img src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Coquetel">
                     <div class="menu-item-content">
                         <h3>Coquetel Especial da Casa</h3>
-                        <p>Uma combinação exclusiva de frutas tropicais, vodka e licor premium.</p>
+                        <p>BEBIDAS.</p>
                         <div class="price">R$ 18,00</div>
                     </div>
                 </div>
@@ -492,8 +492,8 @@
                 <div class="menu-item" data-category="pratos">
                     <img src="https://images.unsplash.com/photo-1586190848861-99aa4a171e90?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Salmão">
                     <div class="menu-item-content">
-                        <h3>Salmão Grelhado</h3>
-                        <p>Filé de salmão grelhado com molho de maracujá e acompanhamentos.</p>
+                        <h3>LANCHE</h3>
+                        <p>LANCHE.</p>
                         <div class="price">R$ 58,00</div>
                     </div>
                 </div>
@@ -501,8 +501,8 @@
                 <div class="menu-item" data-category="entradas">
                     <img src="https://images.unsplash.com/photo-1606755962773-d324e74532a7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Salada">
                     <div class="menu-item-content">
-                        <h3>Salada Caesar</h3>
-                        <p>Alface romana, croutons, queijo parmesão e molho caesar tradicional.</p>
+                        <h3>Salada</h3>
+                        <p>AJKSDJAJSAJ</p>
                         <div class="price">R$ 32,00</div>
                     </div>
                 </div>
