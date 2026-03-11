@@ -1,5 +1,5 @@
-<?php require_once 'includes/header.php'; ?>
-<?php require_once 'includes/sidebar.php'; ?>
+<?php require_once 'header.php'; ?>
+<?php require_once 'sidebar.php'; ?>
 
 <!-- Top navbar (opcional) -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom rounded mb-4">
